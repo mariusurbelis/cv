@@ -11,9 +11,9 @@ Currently a graduate Software Engineer working at NCR Corporation
   - C# (Unity, Microsoft XNA)
   - C++
   - Java (Android)
-  - Javascript (Node.js)
+  - Javascript (Node.js, Vue)
   - HTML/CSS (Bootstrap)
-  - Docker (Compose)
+  - Docker
   - SQL
   - Jenkins
   - Kubernetes
