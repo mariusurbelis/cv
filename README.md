@@ -3,7 +3,7 @@
 
 ## Bio
 
-Currently a graduate Software Engineer working at NCR Corporation
+Currently a graduate Software Engineer working at Unity
 
 ## IT Experience
 
@@ -25,6 +25,7 @@ Currently a graduate Software Engineer working at NCR Corporation
 
 ## Work Experience
 
+- **Unity**: Software Engineer
 - **NCR Corporation**: Software Engineer
 - **DLR Media**: Videographer/Live Streaming Specialist
 - **DUSA - Dundee University Students' Association**: Student Technician
